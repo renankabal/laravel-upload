@@ -3,7 +3,7 @@
  * Controller Manuais
  * @name Manuais
  * @map
- * @author  Proesc
+ * @author  Renan Jhonatha
  */
 class ManuaisController extends ResourceController {
 	/**
